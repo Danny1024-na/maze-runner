@@ -1,4 +1,4 @@
-# Maze-G2
+# Maze-runner
 
 "# maze-runner" 
 
